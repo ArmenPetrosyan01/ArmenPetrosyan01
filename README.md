@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Armen 👋
 
-<!--
-**ArmenPetrosyan01/ArmenPetrosyan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI / ML Engineer
+AI/ML Engineer with hands-on experience in machine learning, deep learning, and data processing. Passionate about building intelligent solutions, automated pipelines, and backend APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL, C++/C#
+- **AI & ML:** TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV
+- **LLMs & Tools:** OpenAI API, Claude API, Prompt Engineering, Cursor AI
+- **Backend & Data:** FastAPI, PostgreSQL, Docker, Selenium, Web Scraping
+- **DevOps & Version Control:** Git, GitHub Actions, Linux
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/armen-petrosyan](https://linkedin.com/in/armen-petrosyan)
+- **Email:** armenpetrosyan.upwork@gmail.com
